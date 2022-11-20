@@ -1,3 +1,3 @@
 # Skuska_ITnetwork
-Projekt k skúške
+Projekt k skúške:
 Momentálne zjednodušená konzolová verzia.
